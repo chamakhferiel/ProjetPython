@@ -1,4 +1,3 @@
-# ProjetPython
 Pour exécuter le code il faut tous d'abord exécuter les commandes ci-dessous
 pip install praw
 pip install numpy
